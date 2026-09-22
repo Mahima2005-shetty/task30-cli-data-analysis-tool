@@ -1,0 +1,16 @@
+employee_id,name,department,experience_years,salary,sales
+101,Aarav,IT,2,45000,120000
+102,Diya,HR,3,48000,95000
+103,Rohan,IT,5,72000,180000
+104,Ananya,Finance,4,65000,150000
+105,Vikram,Sales,6,78000,210000
+106,Meera,IT,3,55000,140000
+107,Arjun,Sales,2,42000,110000
+108,Neha,Finance,7,85000,230000
+109,Kiran,HR,5,62000,135000
+110,Priya,Sales,4,68000,175000
+111,Rahul,IT,8,95000,260000
+112,Sneha,Finance,2,50000,125000
+113,Aditya,Sales,5,75000,195000
+114,Pooja,HR,6,70000,160000
+115,Manoj,IT,4,60000,155000
